@@ -1,3 +1,4 @@
+git bash commonds 
 cd ..(change directory)
 cd ..
 cd ..
@@ -8,7 +9,8 @@ ls
 cd myproject2
 git init (Initializing a new, empty repository)
 git config --global user.name "shambhaviyadawad" (to add username )
-git config --global user.email "shambhaviyadawad@gmail.com" (to add user email"
+git config --global user.email "shambhaviyadawad@gmail.com" (to add user email)
+git confi --global --unset user.name or user.email "correct name or email"(if you have any mistakes in name and email to correct is command is used)
 nano program2.c (to create file in folder and to write the content or to edit the content)
 {after editing control 's' control 'x'}
 git commit -m "this is my first commit" ( to commit )
